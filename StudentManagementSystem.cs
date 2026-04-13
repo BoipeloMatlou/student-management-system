@@ -63,8 +63,8 @@ namespace StudentManagementSystem
             int[] grades1 = { 90, 87, 85 };
             int[] grades2 = { 78, 93, 82 };
 
-            studentList.Add(new Student("Boipelo Matlou", "S12345", grades1));
-            studentList.Add(new Student("Dante Matlou", "S54321", grades2));
+            studentList.Add(new Student("John Doe", "S12345", grades1));
+            studentList.Add(new Student("Dante Rios", "S54321", grades2));
 
             WriteLine("Two initial students have been added.\n");
 
